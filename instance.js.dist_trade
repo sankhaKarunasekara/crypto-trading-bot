@@ -2,7 +2,7 @@ const c = (module.exports = {});
 
 c.symbols = [
   {
-    symbol: 'ETHUSDT',
+    symbol: 'BTCUSDT',
     exchange: 'binance_futures',
     periods: ['1m', '15m', '1h'],
     trade: {
